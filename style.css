@@ -1,46 +1,4 @@
-/* *{
-    margin: 0;
-    padding: 0;
-    font-family: sans-serif;
-    box-sizing: border-box;
-}
-body{
-    background-color: rgb(230, 221, 221);
-}
-.section{
-    width: 600px;
-    height: 380px;
-    margin: 50px auto;
-    background-color: white;
-    border-radius: 5px;
-}
-h1{
-    font-size: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding-top: 50px;
-}
 
-.class{
-    display: flex;
-    align-items: center;
-    padding: 10px;
-    margin-bottom: 20px;
-}
-footer{
-    width: 100%;
-    padding: 27px;
-    border: 1px solid purple;
-    background-color: purple;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-footer a{
-    text-decoration: none;
-    color: white;
-} */
 *{
     font-family: sans-serif;
     box-sizing: border-box;
